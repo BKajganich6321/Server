@@ -1,8 +1,0 @@
-C:\src\MyOwnWebServer\bin\Debug\MyOwnWebServer.exe.config
-C:\src\MyOwnWebServer\bin\Debug\MyOwnWebServer.exe
-C:\src\MyOwnWebServer\bin\Debug\MyOwnWebServer.pdb
-C:\src\MyOwnWebServer\obj\Debug\MyOwnWebServer.csproj.AssemblyReference.cache
-C:\src\MyOwnWebServer\obj\Debug\MyOwnWebServer.csproj.CoreCompileInputs.cache
-C:\src\MyOwnWebServer\obj\Debug\MyOwnWebServer.exe
-C:\src\MyOwnWebServer\obj\Debug\MyOwnWebServer.pdb
-C:\src\MyOwnWebServer\obj\Debug\MyOwnWebServer.exe.config
